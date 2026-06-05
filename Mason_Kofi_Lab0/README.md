@@ -9,3 +9,6 @@
 
 ## About
 This repository contains my Lab 0 submissions for the Introduction to AI course, including environment setup verification and Python exercises.
+
+## GitHub Repository
+https://github.com/Blank-game/ai-course-lab0
